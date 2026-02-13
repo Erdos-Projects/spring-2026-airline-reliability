@@ -1,0 +1,507 @@
+{
+  "session_info": {
+    "start_time": "2026-02-13T14:51:52.742994",
+    "script_version": "1.0",
+    "python_version": "3.13.7 (tags/v3.13.7:bcee1c3, Aug 14 2025, 14:15:11) [MSC v.1944 64 bit (AMD64)]",
+    "platform": "Windows-11-10.0.26100-SP0",
+    "source_url": "https://www.transtats.bts.gov/DL_SelectFields.aspx?gnoyr_VQ=FGJ&QO_fu146_anzr=b0-gvzr",
+    "data_source": "Bureau of Transportation Statistics (BTS)",
+    "dataset": "On-Time Performance",
+    "end_time": "2026-02-13T15:14:26.911656",
+    "total_downloads_attempted": 35,
+    "successful_downloads": 35,
+    "failed_downloads": 0
+  },
+  "downloads": [
+    {
+      "timestamp": "2026-02-13T14:52:28.356911",
+      "year": 2023,
+      "month": 1,
+      "month_name": "January",
+      "fields_selected": [
+        "on"
+      ],
+      "num_fields": 1,
+      "status": "success",
+      "download_filename": "On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2023_1.zip",
+      "file_size_bytes": 27068766,
+      "error_message": null
+    },
+    {
+      "timestamp": "2026-02-13T14:53:30.499114",
+      "year": 2023,
+      "month": 2,
+      "month_name": "February",
+      "fields_selected": [
+        "on"
+      ],
+      "num_fields": 1,
+      "status": "success",
+      "download_filename": "On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2023_2.zip",
+      "file_size_bytes": 24730977,
+      "error_message": null
+    },
+    {
+      "timestamp": "2026-02-13T14:54:08.715044",
+      "year": 2023,
+      "month": 3,
+      "month_name": "March",
+      "fields_selected": [
+        "on"
+      ],
+      "num_fields": 1,
+      "status": "success",
+      "download_filename": "On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2023_3.zip",
+      "file_size_bytes": 28954576,
+      "error_message": null
+    },
+    {
+      "timestamp": "2026-02-13T14:54:44.825816",
+      "year": 2023,
+      "month": 4,
+      "month_name": "April",
+      "fields_selected": [
+        "on"
+      ],
+      "num_fields": 1,
+      "status": "success",
+      "download_filename": "On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2023_4.zip",
+      "file_size_bytes": 27994592,
+      "error_message": null
+    },
+    {
+      "timestamp": "2026-02-13T14:55:22.581773",
+      "year": 2023,
+      "month": 5,
+      "month_name": "May",
+      "fields_selected": [
+        "on"
+      ],
+      "num_fields": 1,
+      "status": "success",
+      "download_filename": "On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2023_5.zip",
+      "file_size_bytes": 28333534,
+      "error_message": null
+    },
+    {
+      "timestamp": "2026-02-13T14:55:58.473542",
+      "year": 2023,
+      "month": 6,
+      "month_name": "June",
+      "fields_selected": [
+        "on"
+      ],
+      "num_fields": 1,
+      "status": "success",
+      "download_filename": "On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2023_6.zip",
+      "file_size_bytes": 29075972,
+      "error_message": null
+    },
+    {
+      "timestamp": "2026-02-13T14:56:36.844239",
+      "year": 2023,
+      "month": 7,
+      "month_name": "July",
+      "fields_selected": [
+        "on"
+      ],
+      "num_fields": 1,
+      "status": "success",
+      "download_filename": "On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2023_7.zip",
+      "file_size_bytes": 30208166,
+      "error_message": null
+    },
+    {
+      "timestamp": "2026-02-13T14:57:18.685489",
+      "year": 2023,
+      "month": 8,
+      "month_name": "August",
+      "fields_selected": [
+        "on"
+      ],
+      "num_fields": 1,
+      "status": "success",
+      "download_filename": "On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2023_8.zip",
+      "file_size_bytes": 29539237,
+      "error_message": null
+    },
+    {
+      "timestamp": "2026-02-13T14:57:57.555003",
+      "year": 2023,
+      "month": 9,
+      "month_name": "September",
+      "fields_selected": [
+        "on"
+      ],
+      "num_fields": 1,
+      "status": "success",
+      "download_filename": "On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2023_9.zip",
+      "file_size_bytes": 28047499,
+      "error_message": null
+    },
+    {
+      "timestamp": "2026-02-13T14:58:40.082175",
+      "year": 2023,
+      "month": 10,
+      "month_name": "October",
+      "fields_selected": [
+        "on"
+      ],
+      "num_fields": 1,
+      "status": "success",
+      "download_filename": "On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2023_10.zip",
+      "file_size_bytes": 29452902,
+      "error_message": null
+    },
+    {
+      "timestamp": "2026-02-13T14:59:16.100098",
+      "year": 2023,
+      "month": 11,
+      "month_name": "November",
+      "fields_selected": [
+        "on"
+      ],
+      "num_fields": 1,
+      "status": "success",
+      "download_filename": "On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2023_11.zip",
+      "file_size_bytes": 27573257,
+      "error_message": null
+    },
+    {
+      "timestamp": "2026-02-13T14:59:54.591089",
+      "year": 2023,
+      "month": 12,
+      "month_name": "December",
+      "fields_selected": [
+        "on"
+      ],
+      "num_fields": 1,
+      "status": "success",
+      "download_filename": "On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2023_12.zip",
+      "file_size_bytes": 28818502,
+      "error_message": null
+    },
+    {
+      "timestamp": "2026-02-13T15:00:31.834226",
+      "year": 2024,
+      "month": 1,
+      "month_name": "January",
+      "fields_selected": [
+        "on"
+      ],
+      "num_fields": 1,
+      "status": "success",
+      "download_filename": "On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2024_1.zip",
+      "file_size_bytes": 27573265,
+      "error_message": null
+    },
+    {
+      "timestamp": "2026-02-13T15:01:07.920564",
+      "year": 2024,
+      "month": 2,
+      "month_name": "February",
+      "fields_selected": [
+        "on"
+      ],
+      "num_fields": 1,
+      "status": "success",
+      "download_filename": "On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2024_2.zip",
+      "file_size_bytes": 25086854,
+      "error_message": null
+    },
+    {
+      "timestamp": "2026-02-13T15:01:46.144608",
+      "year": 2024,
+      "month": 3,
+      "month_name": "March",
+      "fields_selected": [
+        "on"
+      ],
+      "num_fields": 1,
+      "status": "success",
+      "download_filename": "On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2024_3.zip",
+      "file_size_bytes": 29313663,
+      "error_message": null
+    },
+    {
+      "timestamp": "2026-02-13T15:02:22.621077",
+      "year": 2024,
+      "month": 4,
+      "month_name": "April",
+      "fields_selected": [
+        "on"
+      ],
+      "num_fields": 1,
+      "status": "success",
+      "download_filename": "On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2024_4.zip",
+      "file_size_bytes": 28540589,
+      "error_message": null
+    },
+    {
+      "timestamp": "2026-02-13T15:03:02.463042",
+      "year": 2024,
+      "month": 5,
+      "month_name": "May",
+      "fields_selected": [
+        "on"
+      ],
+      "num_fields": 1,
+      "status": "success",
+      "download_filename": "On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2024_5.zip",
+      "file_size_bytes": 31139902,
+      "error_message": null
+    },
+    {
+      "timestamp": "2026-02-13T15:03:40.617325",
+      "year": 2024,
+      "month": 6,
+      "month_name": "June",
+      "fields_selected": [
+        "on"
+      ],
+      "num_fields": 1,
+      "status": "success",
+      "download_filename": "On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2024_6.zip",
+      "file_size_bytes": 31226761,
+      "error_message": null
+    },
+    {
+      "timestamp": "2026-02-13T15:04:31.810748",
+      "year": 2024,
+      "month": 7,
+      "month_name": "July",
+      "fields_selected": [
+        "on"
+      ],
+      "num_fields": 1,
+      "status": "success",
+      "download_filename": "On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2024_7.zip",
+      "file_size_bytes": 34427174,
+      "error_message": null
+    },
+    {
+      "timestamp": "2026-02-13T15:05:11.834583",
+      "year": 2024,
+      "month": 8,
+      "month_name": "August",
+      "fields_selected": [
+        "on"
+      ],
+      "num_fields": 1,
+      "status": "success",
+      "download_filename": "On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2024_8.zip",
+      "file_size_bytes": 30854511,
+      "error_message": null
+    },
+    {
+      "timestamp": "2026-02-13T15:05:47.539517",
+      "year": 2024,
+      "month": 9,
+      "month_name": "September",
+      "fields_selected": [
+        "on"
+      ],
+      "num_fields": 1,
+      "status": "success",
+      "download_filename": "On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2024_9.zip",
+      "file_size_bytes": 28433978,
+      "error_message": null
+    },
+    {
+      "timestamp": "2026-02-13T15:06:23.413043",
+      "year": 2024,
+      "month": 10,
+      "month_name": "October",
+      "fields_selected": [
+        "on"
+      ],
+      "num_fields": 1,
+      "status": "success",
+      "download_filename": "On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2024_10.zip",
+      "file_size_bytes": 29418453,
+      "error_message": null
+    },
+    {
+      "timestamp": "2026-02-13T15:06:59.106891",
+      "year": 2024,
+      "month": 11,
+      "month_name": "November",
+      "fields_selected": [
+        "on"
+      ],
+      "num_fields": 1,
+      "status": "success",
+      "download_filename": "On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2024_11.zip",
+      "file_size_bytes": 28149354,
+      "error_message": null
+    },
+    {
+      "timestamp": "2026-02-13T15:07:35.212696",
+      "year": 2024,
+      "month": 12,
+      "month_name": "December",
+      "fields_selected": [
+        "on"
+      ],
+      "num_fields": 1,
+      "status": "success",
+      "download_filename": "On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2024_12.zip",
+      "file_size_bytes": 30150370,
+      "error_message": null
+    },
+    {
+      "timestamp": "2026-02-13T15:08:10.955016",
+      "year": 2025,
+      "month": 1,
+      "month_name": "January",
+      "fields_selected": [
+        "on"
+      ],
+      "num_fields": 1,
+      "status": "success",
+      "download_filename": "On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2025_1.zip",
+      "file_size_bytes": 27108664,
+      "error_message": null
+    },
+    {
+      "timestamp": "2026-02-13T15:08:46.765579",
+      "year": 2025,
+      "month": 2,
+      "month_name": "February",
+      "fields_selected": [
+        "on"
+      ],
+      "num_fields": 1,
+      "status": "success",
+      "download_filename": "On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2025_2.zip",
+      "file_size_bytes": 25302583,
+      "error_message": null
+    },
+    {
+      "timestamp": "2026-02-13T15:09:22.840768",
+      "year": 2025,
+      "month": 3,
+      "month_name": "March",
+      "fields_selected": [
+        "on"
+      ],
+      "num_fields": 1,
+      "status": "success",
+      "download_filename": "On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2025_3.zip",
+      "file_size_bytes": 30544825,
+      "error_message": null
+    },
+    {
+      "timestamp": "2026-02-13T15:10:01.090930",
+      "year": 2025,
+      "month": 4,
+      "month_name": "April",
+      "fields_selected": [
+        "on"
+      ],
+      "num_fields": 1,
+      "status": "success",
+      "download_filename": "On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2025_4.zip",
+      "file_size_bytes": 29369186,
+      "error_message": null
+    },
+    {
+      "timestamp": "2026-02-13T15:10:39.270933",
+      "year": 2025,
+      "month": 5,
+      "month_name": "May",
+      "fields_selected": [
+        "on"
+      ],
+      "num_fields": 1,
+      "status": "success",
+      "download_filename": "On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2025_5.zip",
+      "file_size_bytes": 30830593,
+      "error_message": null
+    },
+    {
+      "timestamp": "2026-02-13T15:11:17.162459",
+      "year": 2025,
+      "month": 6,
+      "month_name": "June",
+      "fields_selected": [
+        "on"
+      ],
+      "num_fields": 1,
+      "status": "success",
+      "download_filename": "On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2025_6.zip",
+      "file_size_bytes": 31131411,
+      "error_message": null
+    },
+    {
+      "timestamp": "2026-02-13T15:11:55.299992",
+      "year": 2025,
+      "month": 7,
+      "month_name": "July",
+      "fields_selected": [
+        "on"
+      ],
+      "num_fields": 1,
+      "status": "success",
+      "download_filename": "On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2025_7.zip",
+      "file_size_bytes": 32208704,
+      "error_message": null
+    },
+    {
+      "timestamp": "2026-02-13T15:12:33.710039",
+      "year": 2025,
+      "month": 8,
+      "month_name": "August",
+      "fields_selected": [
+        "on"
+      ],
+      "num_fields": 1,
+      "status": "success",
+      "download_filename": "On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2025_8.zip",
+      "file_size_bytes": 30864245,
+      "error_message": null
+    },
+    {
+      "timestamp": "2026-02-13T15:13:09.588989",
+      "year": 2025,
+      "month": 9,
+      "month_name": "September",
+      "fields_selected": [
+        "on"
+      ],
+      "num_fields": 1,
+      "status": "success",
+      "download_filename": "On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2025_9.zip",
+      "file_size_bytes": 28151630,
+      "error_message": null
+    },
+    {
+      "timestamp": "2026-02-13T15:13:45.505738",
+      "year": 2025,
+      "month": 10,
+      "month_name": "October",
+      "fields_selected": [
+        "on"
+      ],
+      "num_fields": 1,
+      "status": "success",
+      "download_filename": "On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2025_10.zip",
+      "file_size_bytes": 30723803,
+      "error_message": null
+    },
+    {
+      "timestamp": "2026-02-13T15:14:21.914458",
+      "year": 2025,
+      "month": 11,
+      "month_name": "November",
+      "fields_selected": [
+        "on"
+      ],
+      "num_fields": 1,
+      "status": "success",
+      "download_filename": "On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2025_11.zip",
+      "file_size_bytes": 28847755,
+      "error_message": null
+    }
+  ]
+}
