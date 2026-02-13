@@ -1,0 +1,3 @@
+# Key Performance Indicators
+
+For the question of wheather a flight will be meaningfully delayed (>15mins) or not, we will look at accuracy as our main metric of evaluation. We will also look at precision and recall metrics to understand if our model may be overfitting to certain scenarios, although the data seems diverse enough this should be avoidable. For the prediction of how much a flight was delayed, we look at the root mean squared error to evaluate how well the model is doing. Throughout, we would also look at latency (which in this case should be a reasonable proxy for computational cost) to see if there are ways to simplify the model without affecting our primary goals.
