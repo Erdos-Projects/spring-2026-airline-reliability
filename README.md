@@ -13,7 +13,7 @@ We study this by using US flight data from the Bureau of Transportation Statisti
 
 Flight delays cost the US economy around $30 billion annually, and up to 37% of this ammount is composed of costs to individual passengers [1]. While most flight delays are inevitable, given the scale of this industry even small improvements can have significant impacts. We envision this tool to be useful to delay-sensitive customers, both in terms of airline/airport selection, but also for small-change differentiation - perhaps the 10am flight option is a lot better than the 12pm one. On the airline-level, while most delays are weather-related, this would provide a way to filter for the one which are not and may be able to be improved, or also when studying new potential routes and schedules which ones would likely have high delay rates - relating to weather or not.
 
-
+Some limitations of this approach is that we only look at US flight data, so results may not generalize elsewhere. We also do not look at specific weather data, so while it is likely the model will learn about general geographical and seasonal weather disruption patterns, it is probably more useful for longer-term vs week-of planning - if you know it is storming close to your flight time tomorrow, that is a much better indication of delay than whatever the model may say. It also does not have any economic data, so while investigating potential new flight routes or schedules, this would be a very small piece to the feasibility puzzle.
 
 
 [1] https://www.itij.com/latest/news/flight-disruption-impact-economy-and-environment#:~:text=The%20economic%20impact%20was%20investigated,also%20play%20a%20significant%20role
