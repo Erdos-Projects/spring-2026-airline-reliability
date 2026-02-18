@@ -1,1 +1,24 @@
+import glob
+import os
+import numpy as np
+import pandas as pd
+import zipfile
+path = "Users\linathan\Documents\bts_downloads_2010_2023"
+all_files = glob.glob(os.path.join(path , "\*.zip"))
+li = []
+path = os.getcwd()
+path
+
+
+all_files = [path+"\\bts_downloads_2010_2023\On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2010_1"]
+name = "On_Time_Reporting_Carrier_On_Time_Performance_(1987_present)_2010_1"
+for filename in all_files:
+    zf = zipfile.ZipFile(filename+'.zip')
+    print(zf.namelist())
+    df = pd.read_csv(zf.open(name+'.csv'))
+    li.append(df)
+
+## li is the data frame that contains all dowmloaded raw data. We now perform column operations on li to obtain processed data.
+
+
 
