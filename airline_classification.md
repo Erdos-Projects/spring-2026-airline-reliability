@@ -9,7 +9,7 @@ B = Budget
 L = Legacy  
 H = Hybrid  
 R = Regional  
-* = present in Nov 2025  
+asterisk = present in Nov 2025  
   
 *UA - United - HS - L  
 *DL - Delta - HS - L  
