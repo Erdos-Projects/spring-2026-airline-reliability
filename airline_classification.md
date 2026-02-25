@@ -9,24 +9,26 @@ B = Budget
 L = Legacy  
 H = Hybrid  
 R = Regional  
+asterisk = present in Nov 2025  
   
-UA - United - HS - L  
-DL - Delta - HS - L  
-AA - American - HS - L  
-WN - Southwest - PTP - H  
-NK - Spirit - PTP - B  
-F9 - Frontier - H - B  
-B6 - JetBlue - PTP - B  
-AS - Alaskan - HS - R  
-HA - Hawaiian - HS - R  
-G4 - Allegiant - PTP - B  
+*UA - United - HS - L  
+*DL - Delta - HS - L  
+*AA - American - HS - L  
+*WN - Southwest - PTP - H  
+*NK - Spirit - PTP - B  
+*F9 - Frontier - H - B  
+*B6 - JetBlue - PTP - B  
+*AS - Alaskan - HS - R  
+*HA - Hawaiian - HS - R  
+*G4 - Allegiant - PTP - B  
 SY - Sun Country - H - B  
 9E - Endeavor Air (Delta Subsidiary) - ? - R  
 XE - ExpressJet Airlines - ? - R  
 YV - Mesa Airlines - HS - R  
-MQ - American Eagle Airlines (aka Envoy) -  HS - R  
-OH - Comair - ? - R  
-OO - SkyWest - ? - R  
+*MQ - American Eagle Airlines (aka Envoy) -  HS - R  
+*OH - Comair - ? - R  
+*OO - SkyWest - ? - R  
 US - US Airways Inc - ? - ?  
 EV - ExpressJet Airlines - ? - R  
-FL - AirTran - ? - LC
+FL - AirTran - ? - LC  
+*YX - Republic Airways - ? - R  
