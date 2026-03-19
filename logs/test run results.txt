@@ -1,0 +1,74 @@
+Epoch   1 | Train Loss: 0.8680 | Val Loss: 1.0790 |Train Time: 643.1232 | Val Time: 26.3263
+
+LSTM threshold 0.80
+		precision    recall  f1-score   support
+
+  Delay < 15       0.77      0.99      0.87    848095
+ Delay >= 15       0.72      0.09      0.16    276474
+
+    accuracy                           0.77   1124569
+   macro avg       0.75      0.54      0.51   1124569
+weighted avg       0.76      0.77      0.69   1124569
+
+ROC-AUC: 0.6958
+accuracy: 0.7679
+
+logistic
+fit took 163.21329990499999
+pred took 2.510812626999723
+		precision    recall  f1-score   support
+
+  Delay < 15       0.77      0.96      0.86    870354
+ Delay >= 15       0.52      0.12      0.20    283110
+
+    accuracy                           0.76   1153464
+   macro avg       0.65      0.54      0.53   1153464
+weighted avg       0.71      0.76      0.70   1153464
+
+ROC-AUC: 0.6485
+accuracy: 0.7573
+
+xgboost forest
+fit took 527.5368056179996
+pred took 7.208343374000833
+              precision    recall  f1-score   support
+
+  Delay < 15       0.78      0.98      0.86    870354
+ Delay >= 15       0.63      0.13      0.22    283110
+
+    accuracy                           0.77   1153464
+   macro avg       0.70      0.55      0.54   1153464
+weighted avg       0.74      0.77      0.71   1153464
+
+ROC-AUC: 0.6787
+accuracy: 0.7682
+
+dummy
+fit took 36.30253469500167
+pred took 2.3795652680000785
+              precision    recall  f1-score   support
+
+  Delay < 15       0.75      1.00      0.86    870354
+ Delay >= 15       0.00      0.00      0.00    283110
+
+    accuracy                           0.75   1153464
+   macro avg       0.38      0.50      0.43   1153464
+weighted avg       0.57      0.75      0.65   1153464
+
+ROC-AUC: 0.5000
+accuracy: 0.7546
+
+no feature selection logistic
+fit took 52.29054582500066
+pred took 0.8787894709985267
+              precision    recall  f1-score   support
+
+  Delay < 15       0.75      1.00      0.86    870354
+ Delay >= 15       0.37      0.00      0.01    283110
+
+    accuracy                           0.75   1153464
+   macro avg       0.56      0.50      0.43   1153464
+weighted avg       0.66      0.75      0.65   1153464
+
+ROC-AUC: 0.5505
+accuracy: 0.7540
