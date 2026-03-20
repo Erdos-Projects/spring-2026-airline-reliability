@@ -1,0 +1,47 @@
+LSTM
+Beginning Epoch 1
+Epoch   1 | Train Loss: 0.9398 | Val Loss: 1.2008 |Train Time: 598.9349 | Val Time: 25.3966
+Training complete. Best model saved.
+ 
+precision    recall  f1-score   support
+
+  Delay < 30       0.85      0.99      0.92    940057
+ Delay >= 30       0.67      0.13      0.22    184512
+
+    accuracy                           0.85   1124569
+   macro avg       0.76      0.56      0.57   1124569
+weighted avg       0.82      0.85      0.80   1124569
+
+ROC-AUC: 0.6989
+accuracy: 0.8468
+
+Log (with all features)
+  fit took 112.87983056899975
+pred took 2.6352825509993636
+              precision    recall  f1-score   support
+
+  Delay < 15       0.84      0.98      0.91    964701
+ Delay >= 15       0.48      0.07      0.12    188763
+
+    accuracy                           0.84   1153464
+   macro avg       0.66      0.53      0.52   1153464
+weighted avg       0.78      0.84      0.78   1153464
+
+ROC-AUC: 0.6532
+accuracy: 0.8352
+
+
+  Dummy
+  fit took 68.9682813620002
+pred took 2.4558128899998337
+              precision    recall  f1-score   support
+
+  Delay < 15       0.84      1.00      0.91    964701
+ Delay >= 15       0.00      0.00      0.00    188763
+
+    accuracy                           0.84   1153464
+   macro avg       0.42      0.50      0.46   1153464
+weighted avg       0.70      0.84      0.76   1153464
+
+ROC-AUC: 0.5000
+accuracy: 0.8364
